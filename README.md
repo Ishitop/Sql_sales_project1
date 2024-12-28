@@ -200,4 +200,4 @@ GROUP BY shift
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
  ## Created by Ishit Verma
- -**linkdn Profile**-
+ **linkdn Profile**-https://www.linkedin.com/in/ishit-verma-2309b8281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
